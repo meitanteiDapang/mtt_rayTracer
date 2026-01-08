@@ -1,5 +1,5 @@
 # mtt_rayTracer
-一个path tracing render.做起来先，淦
+a path tracing render implemented by C++
 
 Only tested in macOS 12.0.1.
 
